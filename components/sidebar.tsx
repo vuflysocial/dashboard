@@ -118,24 +118,6 @@ export const Sidebar = () => {
         </ul>
 
 
-
-        <div className="px-3 hidden md:block">
-          <div className="overflow-hidden group relative rounded-lg flex justify-center items-center">
-            <Link className="block w-full relative z-10 rounded-lg bg-slate-100 sm:p-6" href="/">
-              <p className="mt-2 text-slate-500 text-sm">Powered by:</p>
-              <h1>MELO INU</h1>
-              <div className="mt-8">
-                <p className="text-sm text-gray-500">
-                  Melo Inu Dashboad gives you the best experience with all the features you need for
-                  to access the Melo Inu ecosytem.
-                </p>
-              </div>
-            </Link>
-          </div>
-        </div>
-
-        <p className="mb-14 px-5 py-3 hidden md:block text-center text-xs text-gray-500">Copyright @2023</p>
-      </div>
-    </div>
+</div></div>
   );
 }
