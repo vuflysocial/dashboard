@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "transaction": "",
+    "first_name": "",
+    "last_name": "",
+    "process_date": "",
+    "origin": "",
+    "destination": "",
+    "status": "",
+    "text_color": "",
+    "status_bg": ""
+  },
+  {
+    "id": 2,
+    "transaction": "",
+    "process_date": "",
+    "first_name": "",
+    "last_name": "",
+    "origin": "",
+    "destination": "",
+    "status": "",
+    "text_color": "",
+    "status_bg": ""
+  },
+  {
+    "id": 3,
+    "transaction": "",
+    "process_date": "",
+    "first_name": "",
+    "last_name": "",
+    "origin": "",
+    "destination": "",
+    "status": "",
+    "text_color": "",
+    "status_bg": ""
+  },
+  {
+    "id": 4,
+    "transaction": "",
+    "process_date": "",
+    "first_name": "",
+    "last_name": "",
+    "origin": "",
+    "destination": "",
+    "status": "",
+    "text_color": "",
+    "status_bg": ""
+  },
+  {
+    "id": 5,
+    "transaction": "",
+    "process_date": "",
+    "first_name": "",
+    "last_name": "",
+    "origin": "",
+    "destination": "",
+    "status": "",
+    "text_color": "",
+    "status_bg": ""
+  }
+]
